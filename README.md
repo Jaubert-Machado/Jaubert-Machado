@@ -5,7 +5,7 @@ My main focus is front-end as I have more affinity with art, graphic design and 
 
 - 🌱 I’m currently learning **Javascript and React**
 
-- 📫 How to reach me **jaubertsv@gmail.com**
+- 📫 How to reach me **jaubertmv@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
