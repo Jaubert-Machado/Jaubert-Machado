@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaubert Machado</h1>
 
-<p> My name is Jaubert, I'm a front-end web developer in training, I currently live in Brazil (more specifically Curitiba/PR) and I'm 26 years old. Currently, I decided to embrace and throw myself into programming as a career and professional objective.
+<p> My name is Jaubert, I'm a junior front-end web and mobile developer, I currently live in Brazil (more specifically Curitiba/PR) and I'm 26 years old. Currently, I decided to embrace and throw myself into programming as a career and professional objective.
 My main focus is front-end as I have more affinity with art, graphic design and photography but eventually I intend to increase my skill set for back-end as well.</p>
 
 - 🌱 I’m currently learning **Javascript and React**
